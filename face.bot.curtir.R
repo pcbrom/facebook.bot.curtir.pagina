@@ -82,12 +82,12 @@ Sys.sleep(3)
 ##################################################################################
 
 # IR ATE A PAGINA DE INTERESSE
-url = 'https://www.facebook.com/supermetrica'
+url = 'https://www.facebook.com/supermetrica' # inserir a pagina de interesse para convite
 webElem = remDr$navigate(url)
 Sys.sleep(3)
 
 # ENCONTRAR O ELEMENTO: CONVIDAR AMIGOS PARA CURTIR ESTA PAGINA
-webElem = remDr$findElement(using = 'xpath', "//a[@id='js_12']")$clickElement()
+webElem = remDr$findElement(using = 'xpath', "//a[@id='js_12']")$clickElement() # este elemento js_12 deve ser revisto a cada login
 webElem = remDr$findElement(using = 'xpath', "//span[contains(., 'Aumente seu público convidando seus amigos')]")$clickElement()
 
 ##################################################################################
