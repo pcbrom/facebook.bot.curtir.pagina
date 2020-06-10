@@ -2,13 +2,8 @@
 
 Autor: Pedro Carvalho Brom.
 
-e-mail: supermetrica@gmail.com
+e-mail: pcbrom@gmail.com
 
-Lattes: lattes.cnpq.br/0154064396756002
-
-Facebook: www.facebook.com/pedraodeexatas
-
-SuperMétrica no facebook: www.facebook.com/supermetrica
 
 GitHub: www.github.com/pcbrom
 
